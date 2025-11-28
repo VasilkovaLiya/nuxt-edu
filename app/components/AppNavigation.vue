@@ -27,6 +27,15 @@
         Services
       </NuxtLink>
     </li>
+    <li>
+      <NuxtLink
+        to="/posts"
+        class="hover:text-blue-600 transition-colors"
+        active-class="text-blue-600 font-semibold"
+      >
+        Posts
+      </NuxtLink>
+    </li>
   </ul>
 </template>
 
